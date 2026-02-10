@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "嫌でもね",
+  "base_artist": "大橋ちっぽけ",
+  "createdAt": "2026-02-10T02:21:07.265964Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "嫌でもね",
+      "artist": "Ohashi Chippoke",
+      "has_synced": true,
+      "path": "select/01_嫌でもね_Ohashi_Chippoke.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "嫌でもね",
+      "artist": "大橋ちっぽけ",
+      "has_synced": false,
+      "path": "select/pl_01_嫌でもね_大橋ちっぽけ.txt"
+    }
+  ]
+}
