@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "嫌でもね",
   "base_artist": "大橋ちっぽけ",
-  "createdAt": "2026-02-10T02:21:07.265964Z",
+  "createdAt": "2026-04-03T06:02:42.138007Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -19,6 +19,15 @@
       "artist": "大橋ちっぽけ",
       "has_synced": false,
       "path": "select/pl_01_嫌でもね_大橋ちっぽけ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "嫌でもね",
+      "artist": "大橋ちっぽけ",
+      "has_synced": true,
+      "path": "select/localdb_01_嫌でもね_大橋ちっぽけ.lrc",
+      "repo_name": "GAJYTXojK8s"
     }
   ]
 }
